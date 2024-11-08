@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
     <title>Tbody Extractor</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="https://assets.website-files.com/6246ac7990532afc2998139b/css/bulkr.2901e6f38.css" rel="stylesheet" type="text/css" />
+    <link href="https://assets.website-files.com/6246ac7990532afc2998139b/css/bulkr.61864f60c.css" rel="stylesheet" type="text/css" />
     <style>
         textarea { resize: vertical; }
     </style>
@@ -20,7 +20,7 @@
         <div class="container">
             <div class="form w-form">
                 <form method="post" id="wf-form-" name="wf-form-" class="form">
-                    <label for="html" class="field-label">Paste your &lt;tbody&gt; here:</label>
+                    <label for="html" class="field-label">Paste your &lt;tbody&gt; here</label>
                     <textarea name="html" class="text-field area w-input" required></textarea>
                     
                     <label for="columns" class="field-label">Column indices to extract</label>
